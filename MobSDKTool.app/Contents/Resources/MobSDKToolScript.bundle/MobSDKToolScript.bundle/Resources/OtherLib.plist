@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MJRefresh</key>
+	<string>https://github.com/CoderMJLee/MJRefresh.git</string>
+	<key>SDWebImage</key>
+	<string>https://github.com/rs/SDWebImage.git</string>
+	<key>UITableView+FDTemplateLayoutCell</key>
+	<string>https://github.com/forkingdog/UITableView-FDTemplateLayoutCell.git</string>
+	<key>Masonry</key>
+	<string>https://github.com/SnapKit/Masonry.git</string>
+	<key>MBProgressHUD</key>
+	<string>https://github.com/jdg/MBProgressHUD.git</string>
+	<key>SVProgressHUD</key>
+	<string>https://github.com/SVProgressHUD/SVProgressHUD.git</string>
+	<key>YYImage</key>
+	<string>https://github.com/ibireme/YYImage.git</string>
+	<key>SDCycleScrollView</key>
+	<string>https://github.com/gsdios/SDCycleScrollView.git</string>
+	<key>IQKeyboardManager</key>
+	<string>https://github.com/hackiftekhar/IQKeyboardManager.git</string>
+	<key>TTTAttributedLabel</key>
+	<string>https://github.com/TTTAttributedLabel/TTTAttributedLabel.git</string>
+	<key>TZImagePickerController</key>
+	<string>https://github.com/banchichen/TZImagePickerController.git</string>
+	<key>WMPageController</key>
+	<string>https://github.com/wangmchn/WMPageController.git</string>
+</dict>
+</plist>
